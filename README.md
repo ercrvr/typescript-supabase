@@ -83,3 +83,15 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
+
+### Format with Prettier
+
+```sh
+npm run format
+```
+
+### Type Checking
+
+```sh
+npm run type-check
+```
