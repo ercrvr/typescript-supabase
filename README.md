@@ -95,3 +95,8 @@ npm run format
 ```sh
 npm run type-check
 ```
+
+### Troubleshooting
+
+if Deno throwing errors on VSCode, press Ctrl + Shift + P, and type Deno, select `Deno: Initialize Workspace Configuration`
+
