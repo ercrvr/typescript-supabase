@@ -17,10 +17,11 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
     1. Node.js and npm (or yarn)
     2. A Supabase account
     3. A code editor or IDE
+    4. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Clone github repository
 
-Navigate to a directory where you want the repository to be copied.
+Navigate to a directory where you want the repository to be copied and open Terminal or Command Prompt
 
 ```sh
 git clone https://github.com/ercrvr/typescript-supabase
