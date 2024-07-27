@@ -75,7 +75,7 @@ npm run test:unit
 **Note** If it's your first time running cypress on your machine, you need to install prerequisite packages before running this command.
 [Linux Prerequisites](https://docs.cypress.io/guides/getting-started/installing-cypress#Linux-Prerequisites)
 ```sh
-npm run test:e2e:dev
+npm run test:e2e
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
