@@ -40,6 +40,13 @@ echo VITE_SUPABASE_URL= >> .env
 echo VITE_SUPABASE_ANON_KEY= >> .env
 echo VITE_STUDENT_ENDPOINT= >> .env
 ```
+
+Open the project with your code editor:
+For VSCode:
+```sh
+code .
+```
+
 Update .env with the correct credentials that were sent to you separately.
 
 ## Project Setup
