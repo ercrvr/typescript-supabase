@@ -21,7 +21,7 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 
 ## Clone github repository
 
-Navigate to a directory where you want the repository to be copied and open Terminal or Command Prompt
+Open Terminal or Command Prompt and Navigate to a directory where you want the repository to be copied.
 
 ```sh
 git clone https://github.com/ercrvr/typescript-supabase
