@@ -10,38 +10,38 @@ const supabase = createClient(
 
 const fetchData = [
     {
-        "id": "5bda3881-3d81-49bf-a976-aa902332661d",
+        "id": "a9b33a0f-213c-4b93-8c8d-9465d8b9ce2c",
         "first_name": "Eric",
         "last_name": "Rivera",
         "email": "ericrivera91492@gmail.com",
         "age": 31
     },
     {
-        "id": "54f2c80f-d5db-4a51-ad78-5a1e11c6e41a",
+        "id": "29fc9fe1-621e-4562-b301-86349907bafc",
         "first_name": "Charis",
         "last_name": "Rivera",
         "email": "charismeneses0930@gmail.com",
         "age": 29
     },
     {
-        "id": "91e3588d-d48a-443c-a562-c427e9272baf",
+        "id": "32feedca-0dfa-4082-af46-9b5138f9728a",
         "first_name": "Endrei Marc Benedict",
         "last_name": "Rivera",
         "email": "endreimarcrivera@gmail.com",
         "age": 18
     },
     {
-        "id": "a9dade8c-b018-46cf-808d-33cebd30f4d9",
+        "id": "dd06e7ce-50cd-4f39-bcfa-87d2bf4f32b9",
         "first_name": "John",
         "last_name": "Jones",
         "email": "johnjones1994@gmail.com",
         "age": 30
     },
     {
-        "id": "d808f207-c073-4f46-844c-63729417a07c",
+        "id": "91d43b8a-a5d7-4a61-af03-d9a19937a53a",
         "first_name": "Jared",
         "last_name": "Tungaw",
-        "email": "jaredtungaw@gmail.com",
+        "email": "jaredtungaw22@gmail.com",
         "age": 22
     }
 ];

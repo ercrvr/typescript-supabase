@@ -27,19 +27,10 @@ Open Terminal or Command Prompt and Navigate to a directory where you want the r
 git clone https://github.com/ercrvr/typescript-supabase
 ```
 
-Go to the projects root
+Go to the project's root
 
 ```sh
 cd typescript-supabase
-```
-
-## .env variable setup
-
-Create a .env file by running this command.
-```sh
-echo VITE_SUPABASE_URL= >> .env
-echo VITE_SUPABASE_ANON_KEY= >> .env
-echo VITE_STUDENT_ENDPOINT= >> .env
 ```
 
 Open the project with your code editor:
@@ -48,6 +39,12 @@ For VSCode:
 code .
 ```
 
+## .env variable setup
+
+Create a new file .env, make sure that the file is in the root of the project.
+*OR*
+Duplicate .env.example and rename it to .env
+*THEN*
 Update .env with the correct credentials that were sent to you separately.
 
 ## Project Setup

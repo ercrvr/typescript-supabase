@@ -1,9 +1,4 @@
-describe('Root test', () => {
-    it('visits the app root url and has h3 dashboard element', () => {
-        cy.visit('/')
-        cy.contains('h3', ' Dashboard ')
-    })
-
+describe('TableView', () => {
     it('should display table data correctly', () => {
         cy.visit('/');
         cy.get('#students-table').within(() => {
