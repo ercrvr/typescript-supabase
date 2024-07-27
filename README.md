@@ -48,7 +48,7 @@ Duplicate .env.example and rename it to .env
 Update .env with the correct credentials that were sent to you separately.
 
 ## Project Setup
-
+Open Terminal and run
 ```sh
 npm install
 ```
